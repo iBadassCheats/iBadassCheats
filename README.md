@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @iBadassCheats
+- 👀 I’m interested in C#, C++, Kernal
+- 🌱 I’m currently learning More about C#
